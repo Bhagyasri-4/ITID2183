@@ -1,0 +1,14 @@
+# Sales Dashboard
+
+📊 This project analyzes sales data using Power BI and Python.  
+Includes:
+- Quantity by Category
+- Payment Mode Distribution
+- Sales by Customer
+- Profit by Sub-Category
+
+## Files
+- `SalesDashboard.pbix` → Power BI Dashboard
+- `Orders.csv` → Order data
+- `Details.csv` → Product details
+- `dashboard.png` → Dashboard preview image
